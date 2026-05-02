@@ -11,7 +11,7 @@ This project replicates the layout and core design of Amazon with a clean and mo
 ---
 
 ## 📸 Screenshots
-![Project Screenshot](images/project.png)
+![Project Screenshot](Images/project screenshot.png)
 
 ---
 
