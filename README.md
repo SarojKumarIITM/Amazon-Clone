@@ -10,11 +10,6 @@ This project replicates the layout and core design of Amazon with a clean and mo
 
 ---
 
-## 📸 Screenshots
-![Project Screenshot](Images/project screenshot.png)
-
----
-
 ## ✨ Features
 - Fully responsive design 📱💻
 - Navigation bar with search 🔍
